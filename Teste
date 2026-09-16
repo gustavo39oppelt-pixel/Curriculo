@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercadinho da Dona [Nome da Mãe]</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <div class="logo">
+            <h1>Mercadinho da Dona [Nome]</h1>
+            <p>Produtos frescos, preço justo e atendimento com carinho 💛</p>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#produtos">Produtos</a></li>
+                <li><a href="#sobre">Sobre Nós</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Seção Início -->
+    <section id="inicio" class="inicio">
+        <img src="imagens/fachada.jpg" alt="Fachada do Mercadinho" class="foto-principal">
+        <div class="bem-vindo">
+            <h2>Bem-vindo ao seu mercadinho de confiança!</h2>
+            <p>Aqui você encontra tudo o que precisa para o seu dia a dia, com a qualidade e o atendimento que você merece 🥬🍞🥤🧼</p>
+        </div>
+    </section>
+
+    <!-- Seção Produtos -->
+    <section id="produtos" class="produtos">
+        <h2>Nossos Produtos</h2>
+
+        <div class="categorias">
+            <div class="categoria">
+                <h3>Hortifrúti</h3>
+                <p>Frutas, legumes e verduras fresquinhos</p>
+                <img src="imagens/hortifruti.jpg" alt="Hortifrúti">
+            </div>
+
+            <div class="categoria">
+                <h3>Mercearia</h3>
+                <p>Arroz, feijão, óleo, massas e muito mais</p>
+                <img src="imagens/mercearia.jpg" alt="Mercearia">
+            </div>
+
+            <div class="categoria">
+                <h3>Bebidas</h3>
+                <p>Refrescos, sucos, águas e bebidas variadas</p>
+                <img src="imagens/bebidas.jpg" alt="Bebidas">
+            </div>
+
+            <div class="categoria">
+                <h3>Limpeza</h3>
+                <p>Produtos para cuidar da sua casa</p>
+                <img src="imagens/limpeza.jpg" alt="Limpeza">
+            </div>
+        </div>
+
+        <div class="promocao">
+            <h3>🔥 Promoções da Semana</h3>
+            <p>Confira nossas ofertas imperdíveis, só aqui no Mercadinho da Dona [Nome]!</p>
+        </div>
+    </section>
+
+    <!-- Seção Sobre Nós -->
+    <section id="sobre" class="sobre">
+        <h2>Sobre Nós</h2>
+        <p>O Mercadinho da Dona [Nome] nasceu do sonho de oferecer produtos de qualidade e um atendimento amigo para a nossa comunidade. Estamos há [X] anos cuidando de você e da sua família, sempre escolhendo os melhores produtos com muito carinho 🫶</p>
+    </section>
+
+    <!-- Seção Contato -->
+    <section id="contato" class="contato">
+        <h2>Entre em Contato</h2>
+
+        <div class="informacoes">
+            <p><strong>📍 Endereço:</strong> Rua [Nome da Rua], Nº [Número], Bairro [Bairro], Fortaleza - CE</p>
+            <p><strong>🕘 Horário de Funcionamento:</strong> Segunda a Sábado: 7h às 20h | Domingo: 8h às 12h</p>
+            <p><strong>📱 WhatsApp:</strong> (85) 9XXXX-XXXX</p>
+            <p><strong>🚚 Entregas:</strong> Entregamos em todo bairro e regiões próximas, consulte o valor da entrega!</p>
+            <p><strong>💳 Formas de Pagamento:</strong> Dinheiro, Cartão, Pix</p>
+        </div>
+
+        <a href="https://wa.me/55859XXXXXXXX" target="_blank" class="botao-whatsapp">Fazer Pedido pelo WhatsApp 🛒</a>
+    </section>
+
+    <!-- Rodapé -->
+    <footer>
+      <h1>mercadinho DONA MAZÉ</h1>
+        <p>Feito com 💛 por mim, com muito carinho para a minha mãe!</p>
+    </footer>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercadinho da Dona [Nome da Mãe]</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <div class="logo">
+            <h1>Mercadinho da Dona [Nome]</h1>
+            <p>Produtos frescos, preço justo e atendimento com carinho 💛</p>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#produtos">Produtos</a></li>
+                <li><a href="#sobre">Sobre Nós</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Seção Início -->
+    <section id="inicio" class="inicio">
+        <img src="imagens/fachada.jpg" alt="Fachada do Mercadinho" class="foto-principal">
+        <div class="bem-vindo">
+            <h2>Bem-vindo ao seu mercadinho de confiança!</h2>
+            <p>Aqui você encontra tudo o que precisa para o seu dia a dia, com a qualidade e o atendimento que você merece 🥬🍞🥤🧼</p>
+        </div>
+    </section>
+
+    <!-- Seção Produtos -->
+    <section id="produtos" class="produtos">
+        <h2>Nossos Produtos</h2>
+
+        <div class="categorias">
+            <div class="categoria">
+                <h3>Hortifrúti</h3>
+                <p>Frutas, legumes e verduras fresquinhos</p>
+                <img src="imagens/hortifruti.jpg" alt="Hortifrúti">
+            </div>
+
+            <div class="categoria">
+                <h3>Mercearia</h3>
+                <p>Arroz, feijão, óleo, massas e muito mais</p>
+                <img src="imagens/mercearia.jpg" alt="Mercearia">
+            </div>
+
+            <div class="categoria">
+                <h3>Bebidas</h3>
+                <p>Refrescos, sucos, águas e bebidas variadas</p>
+                <img src="imagens/bebidas.jpg" alt="Bebidas">
+            </div>
+
+            <div class="categoria">
+                <h3>Limpeza</h3>
+                <p>Produtos para cuidar da sua casa</p>
+                <img src="imagens/limpeza.jpg" alt="Limpeza">
+            </div>
+        </div>
+
+        <div class="promocao">
+            <h3>🔥 Promoções da Semana</h3>
+            <p>Confira nossas ofertas imperdíveis, só aqui no Mercadinho da Dona [Nome]!</p>
+        </div>
+    </section>
+
+    <!-- Seção Sobre Nós -->
+    <section id="sobre" class="sobre">
+        <h2>Sobre Nós</h2>
+        <p>O Mercadinho da Dona [Nome] nasceu do sonho de oferecer produtos de qualidade e um atendimento amigo para a nossa comunidade. Estamos há [X] anos cuidando de você e da sua família, sempre escolhendo os melhores produtos com muito carinho 🫶</p>
+    </section>
+
+    <!-- Seção Contato -->
+    <section id="contato" class="contato">
+        <h2>Entre em Contato</h2>
+
+        <div class="informacoes">
+            <p><strong>📍 Endereço:</strong> Rua [Nome da Rua], Nº [Número], Bairro [Bairro], Fortaleza - CE</p>
+            <p><strong>🕘 Horário de Funcionamento:</strong> Segunda a Sábado: 7h às 20h | Domingo: 8h às 12h</p>
+            <p><strong>📱 WhatsApp:</strong> (85) 9XXXX-XXXX</p>
+            <p><strong>🚚 Entregas:</strong> Entregamos em todo bairro e regiões próximas, consulte o valor da entrega!</p>
+            <p><strong>💳 Formas de Pagamento:</strong> Dinheiro, Cartão, Pix</p>
+        </div>
+
+        <a href="https://wa.me/55859XXXXXXXX" target="_blank" class="botao-whatsapp">Fazer Pedido pelo WhatsApp 🛒</a>
+    </section>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2026 Mercadinho da Dona Mazé - Todos os direitos reservados</p>
+        <p>Feito com 💛 por mim, com muito carinho para a minha mãe!</p>
+    </footer>
+ <script src="script.js"></script>
+</body>
+</html>
+    <script src="script.js"></script>
+</body>
+</html>
